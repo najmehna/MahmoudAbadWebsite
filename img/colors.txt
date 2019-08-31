@@ -1,0 +1,10 @@
+C8C8EB   blue
+background 42413C
+8296E6   mid blue
+ style="background: #C6D580;"
+header 133C64
+sidebar  background: #00415A;
+a:visited color: #6E6C64;
+a:link color: #42413C;
+links AAAAE1
+container #9CAFAF;
